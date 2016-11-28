@@ -7,3 +7,7 @@ Three adjacent tiles of the same color in a row or column isn't allowed.
 Rows and columns have an equal number of each color.
 No two rows and no two columns are the same.
 Every hint costs 1 (one) point.
+
+![alt tag](https://github.com/cetinerhalil/bayneri/blob/master/bayneri/ss1.png)
+![alt tag](https://github.com/cetinerhalil/bayneri/blob/master/bayneri/ss2.png)
+![alt tag](https://github.com/cetinerhalil/bayneri/blob/master/bayneri/ss3.png)
