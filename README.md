@@ -1,4 +1,4 @@
-# bayneri
+# About
 bayneri is a little logic game based on puzzle concepts Takuzu and Binario.
 Aim of the game is filling the tile with equal numbers of colors (blue and orange).
 
