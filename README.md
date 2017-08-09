@@ -8,6 +8,6 @@ Rows and columns have an equal number of each color.
 No two rows and no two columns are the same.
 Every hint costs 1 (one) point.
 
-![ss1](https://github.com/cetinerhalil/bayneri/blob/master/img/ss1.png)
-![ss2](https://github.com/cetinerhalil/bayneri/blob/master/img/ss2.png)
-![ss3](https://github.com/cetinerhalil/bayneri/blob/master/img/ss3.png)
+![ss1](https://github.com/cetinerhalil/bayneri/blob/master/screenshots/ss1.png)
+![ss2](https://github.com/cetinerhalil/bayneri/blob/master/screenshots/ss2.png)
+![ss3](https://github.com/cetinerhalil/bayneri/blob/master/screenshots/ss3.png)
